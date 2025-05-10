@@ -1,0 +1,8 @@
+{
+    "SERVICE_NAME": "service_name",
+    "DEPLOYMENT": "service_name",
+    "PROJECT": "project_name",
+    "NODETYPE": "back/front",
+    "PORT": "80",
+    "CHARTNAME": "chartgo"
+}
