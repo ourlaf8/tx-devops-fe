@@ -1,6 +1,6 @@
-@Library("jenkins-shared-library@master") _
+@Library("devops-jf@main") _
 
-paycloudpipeline([
+tixiapipeline([
     type: "fe"
 ])
 
